@@ -273,15 +273,15 @@ const BlogClientPage: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Blog - Shubham Gupta | Cybersecurity Insights & Research</title>
-        <meta name="description" content="Latest cybersecurity insights, bug bounty findings, and security research by Shubham Gupta. Stay updated with the latest in ethical hacking and penetration testing." />
+        <title>Blog - Sourav mondal | Cybersecurity Insights & Research</title>
+        <meta name="description" content="Latest cybersecurity insights, bug bounty findings, and security research by Sourav mondal. Stay updated with the latest in ethical hacking and penetration testing." />
         <meta name="keywords" content="cybersecurity blog, bug bounty, security research, ethical hacking, penetration testing, vulnerability research" />
-        <meta property="og:title" content="Blog - Shubham Gupta | Cybersecurity Insights" />
+        <meta property="og:title" content="Blog - Sourav mondal | Cybersecurity Insights" />
         <meta property="og:description" content="Latest cybersecurity insights, bug bounty findings, and security research." />
-        <meta property="og:url" content="https://guptashubham.com/blog" />
-        <meta property="og:image" content="https://guptashubham.com/og-blog.png" />
+        <meta property="og:url" content="https://mondalsourav.com/blog" />
+        <meta property="og:image" content="https://mondalsourav.com/og-blog.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@hackerspider1" />
+        <meta name="twitter:creator" content="@hacker1engineer" />
       </Head>
       
       <div className="min-h-screen bg-black relative overflow-hidden">
