@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   
   return {
     title: `Blog Post - ${id} | Sourav mondal`,
-    description: 'Cybersecurity insights and security research by Shubham Gupta.',
+    description: 'Cybersecurity insights and security research by Sourav mondal.',
     keywords: 'cybersecurity, bug bounty, security research, ethical hacking, penetration testing',
     openGraph: {
       title: `Blog Post - ${id} | Sourav mondal`,
@@ -54,7 +54,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: `Blog Post - ${id} | Shubham Gupta`,
+      title: `Blog Post - ${id} | sourav mondal`,
       description: 'Cybersecurity insights and security research.',
       images: ['https://mondalsourav.com/og-blog.png'],
       creator: '@hacker1engineer',
